@@ -29,7 +29,6 @@ for file  in os.listdir(dataDirName):
     GS = parsedFilename[5]
     GS = GS[0:len(GS)-6]
    
-    pdb.set_trace()
  
     fileDict = {}
 
